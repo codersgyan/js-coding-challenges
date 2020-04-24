@@ -1,6 +1,6 @@
 ## 💻  Collections of coding challenges in JavaScript.
 
-![Coding challenges wallpaper](./codingch.png)
+![Coding challenges wallpaper](./coding-challenges.png)
 
 Do you want to improve your problem solving skills? Well, who does't? This is the list of those coding challenges which will improve your skills drastically. Most of the questions are asked in many job interviews. 
 
